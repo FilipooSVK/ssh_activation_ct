@@ -28,4 +28,4 @@ Disclaimer: Use this script responsibly and in accordance with your organization
 Download the script: 
 
   ```bash
-     https://raw.githubusercontent.com/FilipooSVK/ssh_activation_ct/main/activate_ssh.sh
+https://raw.githubusercontent.com/FilipooSVK/ssh_activation_ct/main/activate_ssh.sh
